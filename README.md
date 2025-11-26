@@ -47,3 +47,32 @@ Event Booking Platform Backend API
    npm run dev
 
 
+# EventEase Frontend
+
+Event Booking Platform Frontend built with React
+
+## Features
+
+- Modern, responsive UI with Tailwind CSS
+- User authentication (Login/Register)
+- Event browsing with search and filters
+- Event booking with seat validation
+- Booking management and cancellation
+- Role-based access control
+
+## Tech Stack
+
+- React 18
+- React Router DOM
+- Tailwind CSS
+- Axios for API calls
+- Lucide React for icons
+- React Hot Toast for notifications
+
+## Setup Instructions
+
+1. **Install dependencies**
+   ```bash
+   npm install
+
+

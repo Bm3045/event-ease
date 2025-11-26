@@ -80,6 +80,3 @@ Event Booking Platform Frontend built with React
   ```bash
   npm run dev
 
-
-
-

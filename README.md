@@ -76,3 +76,10 @@ Event Booking Platform Frontend built with React
    npm install
 
 
+2. **Start the development server**
+  ```bash
+  npm run dev
+
+
+
+

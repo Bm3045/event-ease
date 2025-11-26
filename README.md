@@ -28,13 +28,10 @@ Event Booking Platform Backend API
    cd eventease-backend
 
 
-Install dependencies
+2.**Install dependencies**
 
-bash
-npm install
-Environment Setup
-
-Copy .env file and update variables:
+  ```bash
+  npm install
 
 3. **env**
    ```bash

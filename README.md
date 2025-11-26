@@ -36,7 +36,8 @@ Environment Setup
 
 Copy .env file and update variables:
 
-## env
+3. **env**
+   ```bash
 PORT=5000
 MONGODB_URI=mongodb://localhost:27017/eventease
 JWT_SECRET=your_jwt_secret_key_here
@@ -45,7 +46,7 @@ NODE_ENV=development
 Start the server
 
 
-2. **Development**
+3. **Development**
    ```bash
    npm run dev
 

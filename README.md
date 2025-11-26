@@ -44,9 +44,9 @@ JWT_EXPIRE=30d
 NODE_ENV=development
 Start the server
 
-bash
-# Development
-npm run dev
 
-# Production
-npm start
+2. **Development**
+   ```bash
+   npm run dev
+
+

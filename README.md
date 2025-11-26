@@ -30,7 +30,7 @@ Event Booking Platform Backend API
 
 2. **Install dependencies**
    ```bash
-  npm install
+   npm install
 
 3. **env**
    ```bash

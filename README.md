@@ -36,7 +36,7 @@ Environment Setup
 
 Copy .env file and update variables:
 
-env
+## env
 PORT=5000
 MONGODB_URI=mongodb://localhost:27017/eventease
 JWT_SECRET=your_jwt_secret_key_here
